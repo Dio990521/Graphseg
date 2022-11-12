@@ -1,0 +1,15 @@
+Tell me about the FAFSA application renewal.
+The first thing you need to know is that you have to renew your FAFSA application every year.
+Can you guide me through it.
+Sure, Have you already logged in to renew your application.
+Not yet.
+==========
+Can I do it through the myStudentAid app.
+Yes, you can, Once you log in as a student on the app the FAFSA renewal form should display automatically if you are eligible for renewal.
+==========
+I just did it and it looks like the form is already filled.
+What you see in the form is the prefilled information from your previous academic year, You need to update any needed information and add your new income and tax information.
+==========
+Great, And, I'm just curious but what does FAFSA mean.
+It means Free Application for Federal Student Aid.
+==========

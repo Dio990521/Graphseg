@@ -1,0 +1,11 @@
+I need help with the Benefits planner for retirement.
+Is this for benefits for your family.
+yes it is.
+Do you want to see who qualifies for retirement benefits.
+No I need help with other things.
+Will you need any info for my family members.
+If any of your qualified family members apply for benefits with you ,we will ask you for their Social Security numbers and their birth certificates .
+only the qualified ones .
+Yes, If any of the qualified family members apply for benefits with you ,we will ask you for their Social Security numbers and their birth certificates .
+Will what my spouse receives vary by her age and/or retirement status.
+Yes, If they begin receiving benefits :between age 62 and their full retirement age , the amount will be permanently reduced by a percentage based on the number of months up to their full retirement age .

@@ -1,0 +1,15 @@
+I need a dditional information about buy or sell a vehicle.
+Have you changed the name in the vehicle registration.
+No, I haven't.
+Do you have flood damage.
+==========
+Sadly yes.
+Please, check the National Insurance Crime Bureau database to see if a vehicle is flood damaged, You will need the Vehicle Identification Number VIN.
+How can I register.
+Please, get  information for how to register a vehicle you bought or received as a gift, Register and title a vehicle or trailer, Register a snowmobile, boat or ATV.
+Can you give me some tips for buying a vehicle.
+Sure, Read the DMV brochures, Let the Buyer Be Aware, and Q&A About Your Title Certificate.
+==========
+Where can I see if my vehicle is flood damaged.
+Check the National Insurance Crime Bureau database to see if a vehicle is flood damaged, You will need the Vehicle Identification Number VIN.
+==========

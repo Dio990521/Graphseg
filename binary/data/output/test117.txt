@@ -1,0 +1,19 @@
+I need to learn about Retirement benefits.
+Do you want to get benefits while working.
+Yes, I would like to learn about getting benefits while working.
+You can work while receiving Social Security retirement or survivor benefits and it could mean higher benefits in the future.
+==========
+Do you work while receiving benefits.
+No I am not working while receiving benefits.
+==========
+What is the limit for earning in 2019.
+The earning limit for working while receiving benefits in 2019 is $17,640.
+==========
+What will happen if I am younger than full retirement age and make more than the yearly earnings allowed,.
+Your earnings may reduce your benefits if you are  at full retirement age,  Two months are added for every birth year until the full retirement age reaches 67 for people born in 1960 or later.
+What year does full retirement age begin for age 66.
+Full retirement age is 66 for people born between 1943 and 1954,  Begining with 1955, two months are added for every birth year until full retirement age reaches 67 for people born in 1960  or later.
+==========
+How much will be deducted if I earn more than the limit under full retirement age.
+We will subtract $1 from your benefit payments for every $2 you earn over the 2019 limit which $17,640.
+==========

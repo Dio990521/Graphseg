@@ -1,0 +1,18 @@
+hi i need more information about your medical benefits package.
+In our packages we cover preventive care services, such as:  Health exams, including gender-specific exams  Health education, including nutrition education.
+==========
+are you enrolled in VA health care.
+if i'm enrolled.
+excellent, you must also have received our attention in the last 24 months, Be sure to tell the urgent care provider that you are using the VA urgent care benefit when you arrive.
+==========
+What requirements must I meet.
+Are you enrolled in VA Health Care.
+yes.
+Are you assigned to a VA primary care provider.
+yes.
+Have you given your VA provider your medical records from your non-VA provider.
+yes.
+Does your VA provider agree to the prescription.
+no, you don't agree.
+since you do not meet all the requirements we will not be able to fill prescriptions from a community provider other than VA.
+==========

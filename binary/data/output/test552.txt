@@ -1,0 +1,14 @@
+Why would I need verification from the school.
+If your school contacted you that you have been selected or you had a note on your SAR saying you been selected for verification then your school uses this to confirm that the data you gave on your FAFSA form is accurate.
+Have you been selected for verification.
+No I have not been selected for verification.
+==========
+Will you help with the actions I need to take.
+Yes, we will help you through everything you need to do to fill out the application properly including accepting and getting your aid.
+Can you tell me how my financial aid is paid out.
+Were you offered financial aid and have accepted it.
+No I have not accepted it yet.
+Did you receive a federal student loan for the first time.
+Yes this is my first time receiving a federal student loan.
+You will need to go through entrance counseling and will be required to sign a promissory note.
+==========

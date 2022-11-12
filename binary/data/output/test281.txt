@@ -1,0 +1,17 @@
+Good evening, I need information about Veterans Pension Eligibility.
+Clear, The Veterans Pension program provides monthly payments to wartime Veterans who meet certain age or disability requirements, and who have income and net worth within certain limits.
+Are you eligible for VA Veterans Pension benefits.
+yes.
+Do you meet the VA pension eligibility requirements.
+I think not.
+==========
+As a war veteran, what requirements must I meet.
+Good among the requirements are age or disability, and what income and net worth are within certain limits.
+What other requirements must I meet.
+ever received a dishonorable discharge.
+do not.
+==========
+you are not eligible to be eligible for VA Veterans Pension benefits, sorry.
+What should I do if I received a license that is not honorable, misconduct, or dishonorable.
+If you received one of these discharge statuses, you may not be eligible for VA pension benefits.
+==========

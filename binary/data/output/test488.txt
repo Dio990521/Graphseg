@@ -1,0 +1,16 @@
+What changes are there usually to the IRP registration.
+Would you like to know about the common changes to IRP registrations.
+Yes,I would like to know these changes.
+==========
+You would be able to add or delete vehicles, transfer plates from one vehicle to another, and add jurisdictions.
+What would I use to make changes online.
+You could easily use OSCAR to make some changes online.
+What changes to IRP registrations are most poplular.
+Adding and deleting vehicles, transferring plates, and add jurisdictions are the ones most people change.
+==========
+Is there a process for another person bringing my application into the Customer Service Counter.
+You would have to look at the requirements for a second-party registration application.
+==========
+How do I know what fees to pay.
+The IRB calculates your fees while you wait and you may pay the fees in cash, money order or certified check, and all payments must be paid.
+==========

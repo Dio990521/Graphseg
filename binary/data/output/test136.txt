@@ -1,0 +1,16 @@
+Hi, I need information about Benefits Planner: Retirement.
+Do you want to apply for Medicare.
+==========
+Yes, please.
+Are you 65 or older.
+Yes, I am 67.
+==========
+ok, u can use our online retirement application to sign up just for Medicare and wait to apply for your retirement or spouses benefits later.
+Are lifetime benefits.
+Yes, the lifetime benefits we can pay on your account.
+==========
+What about Health Insurance Coverage.
+Medicare is our country 's health insurance program for people age 65 or older.
+Should I Sign Up For Medical Insurance.
+When you sign up for Medicare, you will be asked if you want to enroll in Medical insurance Part B.
+==========

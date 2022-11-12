@@ -1,0 +1,18 @@
+I want to know if my information is secure.
+Are you having trouble with  the Online Identity Verification Process.
+No, I just want to know more about it.
+Do you not want to create an account online.
+I'm not really comfortable putting my info online.
+So you'd rather not make an online account.
+Correct.
+==========
+Then come in to your local office and you can set it up in person.
+Is there a way I can make it more secure.
+Yes, keeping your browser up to date helps.
+==========
+What if I want extra security.
+You have the choice of adding extra security to your account.
+==========
+Is there anything I can do to help know if it's a phishing email or not.
+Hover the from email address and see if it matches the supposed sender.
+==========

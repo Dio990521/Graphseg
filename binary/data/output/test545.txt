@@ -1,0 +1,16 @@
+Do I need to renew my FAFSA application.
+You need to renew your FAFSA application every academic year.
+Do you need help renewing your application.
+Yes, that would be nice.
+Did you login to renew your FAFSA form.
+I did, yes.
+==========
+You should notice how the form is already prefilled with some of the information from your previous academic year.
+ah yes, this is the same info I introduced from last year, right.
+Yes, some of it, As you renew your FAFSA form its year you'll be able to continue receiving the aid from it.
+What should I do now.
+==========
+well, you already completed the first step that is to log in with your FSA ID username and password at fafsa,gov.
+yes, what would be next.
+Next, you just have to follow the rest of the instructions to renew your FAFSA form, That is, select FAFSA renewal, update any prefilled information that has changed and provide any other required information, and lastly sign and submit the FAFSA renewal.
+==========

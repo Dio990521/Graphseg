@@ -1,0 +1,17 @@
+What are some changes to IRP registration.
+Would you like to know about come of the common changes to IRP registrations.
+==========
+No, I do not need to know the information at this point.
+Do you need to make changes to your IRP registration.
+Yes, I do need to make changes to IRP registration.
+==========
+Then you would need to complete Schedule A and C IRP-6 and submit for changes, show proof of identity, and provide proof of ownership.
+Is there a way I can do the changes online.
+==========
+Yes, some of the changes to the IRP registration can be done by using OSCAR.
+What topic would I click on while using OSCAR.
+You would click topic Motor Carriers.
+==========
+Is there any additional information that is required to process my application by mail.
+The IRB will send a request for additional information with the invoice and payment must be a certified check or money order.
+==========

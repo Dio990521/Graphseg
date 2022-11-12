@@ -1,0 +1,13 @@
+Do I need insurance.
+Yes you need insurance.
+Are you looking to register a vehicle in New York State.
+No not at this time.
+Do you currently have insurance.
+Yes I maintain insurance at this time.
+Great without maintaining insurance the DMV can suspend your vehicle registration and your driver license.
+What type of insurance is required to register a vehicle.
+The DMV requires auto liability insurance to register a vehicle in New York.
+What proof do I need for the DMV.
+Your insurance company will issue proof of insurance,  It may be Insurance ID cards or provide you with access to your digital electronic NY State Insurance ID Card.
+Is that the only way to access the cards.
+Yes, your insurance will provide proof in one of two ways.

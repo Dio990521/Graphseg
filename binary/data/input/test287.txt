@@ -1,0 +1,12 @@
+tell me about Veterans Pension.
+The Veterans Pension program provides monthly payments to wartime Veterans who meet certain age or disability requirements , and who have income and net worth within certain limits ,s   [3] Find out if you re eligible for this benefit .
+Do you want to know if you are eligible for Veterans Pension benefits.
+yes.
+Do you wan to know what the requirements are.
+no.
+ok, what are the requirements.
+You didn t receive a dishonorable discharge .
+no.
+you are not eligible for the Veterans Pension program.
+What should I do if I received an other than honorable, bad conduct, or dishonorable discharge.
+If you ve received one of these discharge statuses , [42] you may not be eligible for VA pension benefits.

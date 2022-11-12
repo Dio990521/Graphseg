@@ -1,0 +1,15 @@
+I need help with Social Security benefits.
+Would you like to find out how Social Security can provide you, your spouse, and other eligible members of your family with benefits.
+==========
+yes.
+Did you want to find out more about retirement benefits.
+yes I do.
+Did you want more information about benefits if you become disabled.
+I could use that too.
+Did you want to learn about benefits for your family when you die.
+==========
+no I'm not planning on going anywhere yet.
+You can use our planners to help you better understand your Social Security protection as you plan for your financial future.
+Do you also have more info I can look into on Medicare.
+Yes, I will give you a link you can visit.
+==========

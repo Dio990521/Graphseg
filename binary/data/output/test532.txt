@@ -1,0 +1,14 @@
+Hello i would like to get information about Recurring IDR Requesters.
+Do you want to file an annual recertification of your income.
+Yes.
+==========
+To recertify your current income-based payment plan, you must provide updated information about your income and family size annually.
+I do not have updated information.
+==========
+How do I calculate my payment if my income has changed.
+Have your income or your family size changed.
+Yes.
+You can request that your income-based payment be recalculated to reduce your current monthly payment.
+Who should complete this.
+Borrowers currently on an IDR Plan who need to recertify or make changes to their repayment plan.
+==========

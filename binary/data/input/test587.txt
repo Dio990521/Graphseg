@@ -1,0 +1,13 @@
+who is the audience you are trying to reach with your sites.
+You can share our information with potential college students, their parents, and counselors.
+Do you have a website that gets a lot of traffic from any of those people I just listed.
+yep, our site is school related.
+You can share our information about federal student aid with them.
+what kind of information do you have to share.
+On StudentAid,gov we provide in-depth information on federal student aid programs, applying for financial aid, and repaying student loans.
+do you have banners that we can use.
+Yes, we have FAFSA banners available in English and Spanish.
+How do we save it so we can use it.
+Just highlight the text of the HTML, copy it, and paste it into the HTML document for your page, Then download the image.
+Do you have something other than banners.
+We have text options where they can link to StudentAid,gov.

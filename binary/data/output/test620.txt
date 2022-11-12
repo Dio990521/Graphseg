@@ -1,0 +1,15 @@
+help me file a complaint against my school.
+Do you believe your school is not administering federal student aid funds properly.
+==========
+no but I still think they messed my situation up.
+what do I do if I think they messed with me.
+==========
+You can contact your school.
+Do you feel your school calculated your eligibility for federal student grants,, loans,, or work-study incorrectly.
+yes I do.
+Has your school paid out your aid incorrectly, at the wrong time, or not at all.
+I think it was in the wrong amount.
+You should submit a complaint to your school.
+null.
+I can help you learn about identity theft and how to report it to our Office of Inspector General Hotline.
+==========

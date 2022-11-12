@@ -1,0 +1,14 @@
+Hello there, I need some information about family benefits, please.
+Do you have any child.
+==========
+No i don't have any at the moment.
+Say, any member of my family can apply for benefits too.
+Yes, they can, In that case, we'll ask you Social Security Numbers and birth certificates.
+I see, and something else, i was wondering how much could my spouse receive in benefits.
+Do your spouse has qualifications in his/her record.
+No, it hasn't any.
+==========
+Is your benefits on your record higher than your spouse.
+Yeah, my benefits are higher than my spouse.
+If that so, then your spouse will get an additional amount on your record, In that way, the combination of benefits result in equalization with that higher amount.
+==========

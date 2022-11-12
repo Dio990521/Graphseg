@@ -1,0 +1,16 @@
+I need to make IRP registration changes.
+Did you want to know about common changes to IRP registrations.
+no.
+Do you need to make changes to your IRP registration.
+no.
+==========
+Did you want to change something about the registration online.
+yes, I want to know how to do it online.
+you can use the OSCAR page to make changes online.
+can someone else go turn in my changes for me.
+You will need to look at our requirements for a second-party registration application.
+Can I have the address if I choose to do it by mail.
+International Registration Bureau    NYS DMVRoom 136    6 Empire State Plaza     Albany, NY 12220-0850.
+when should I change my address information if I get a new address.
+You should notify the DMV within 10 days, complete Schedule A/C IRP6 and submit it along with your two proofs of new address and payment in the amount of $2,50 per vehicle, Payment must be a check or money order payable to the Commissioner of Motor Vehicles.
+==========

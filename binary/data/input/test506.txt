@@ -1,0 +1,13 @@
+what do we us a mydmv account for.
+Okay, a MyDMV web account provides registered Users with secure and simplified access to use a variety of DMV’s on-line applications and services.
+Would you like to register for an account.
+yes, what do I do.
+After you register for an account you will be sent a temporary password by email, You will need the temporary password to complete the on-line registration process.
+is the account from the DMV or a private place that is providing the service.
+MyDMV was created by the New York State Department of Motor Vehicles, in cooperation with the New York State Office of Information Technology Services.
+so I can do my DMV business with the account instead of having to walk in and wait in line.
+The account will allow you to use a variety of DMV’s on-line applications and services.
+is it secure.
+Yes,  usernames, passwords, and identity information are stored in a secure directory called the “NY,gov”, which is maintained by the New York State Office of Information Technology Services.
+and you give me the first password then I can set my own.
+Yes, you will be sent a temporary password by email to complete registration, You can then set your own password.
